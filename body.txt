@@ -64,6 +64,8 @@ Render .txt into rich formats
 
 Like HTML
 
+Like charts
+
 Like Gabe is going to talk about next
 
 LIKE THIS PRESENTATION
@@ -71,6 +73,10 @@ LIKE THIS PRESENTATION
 ![](http://codyh.github.io/dottxt/img/pres.png)
 
 (boom.)
+
+All without locking you into a proprietary file format
+
+_strokes neckbeard_
 
 .txt
 
