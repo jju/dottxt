@@ -1,6 +1,6 @@
 (function () {
     var xhr = new XMLHttpRequest();
-    xhr.open('get', './body.md');
+    xhr.open('get', './body.txt');
     xhr.onload = function () {
         onLoad(xhr.responseText);
     };
