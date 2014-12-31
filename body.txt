@@ -68,7 +68,7 @@ Like Gabe is going to talk about next
 
 LIKE THIS PRESENTATION
 
-![](/img/pres.png)
+![](http://codyh.github.io/dottxt/img/pres.png)
 
 (boom.)
 
