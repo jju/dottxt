@@ -87,7 +87,7 @@ Like charts
 
 Like Gabe is going to talk about next
 
-LIKE THIS PRESENTATION
+LIKE THESE SLIDES
 
 ![](http://codyh.github.io/dottxt/img/pres.png)
 
