@@ -8,6 +8,8 @@ Badass
 
 .txt
 
+Killer feature:
+
 Type things
 
 into a computer
@@ -15,6 +17,8 @@ into a computer
 Save them for later
 
 So you have them
+
+Store them:
 
 On your computer
 
@@ -30,31 +34,46 @@ iCloud Drive
 
 Google Drive
 
+Cross-platform
+Cross-device
+
 I WROTE THIS ON MY PHONE, YO
 
-Countless apps
+Countless apps:
+
+PC
 
 Notepad
 
 Notepad++
 
+OS X
+
 TextEdit
 
 TextWrangler
+
+Cross-platform
 
 Atom
 
 Word
 
+iOS
+
 Byword, Drafts, Elements
+
+Android
 
 Draft, JotterPad, Writeily
 
-It doesn't matter
+It doesn't matter.
 
-Because it's .txt
+Because it's .txt.
 
-Pack your things and move away
+Don't like your app?
+
+Pack your things and move away.
 
 <em>FANCY</em>
 
