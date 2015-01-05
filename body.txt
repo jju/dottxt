@@ -12,7 +12,7 @@ Killer feature:
 
 Type things
 
-into a computer
+Into a computer
 
 Save them for later
 
@@ -113,4 +113,4 @@ Won't hold your data hostage
 
 Will just save the things you type into your computer
 
-So you have them
+So you have them.
