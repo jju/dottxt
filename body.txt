@@ -1,116 +1,23 @@
-.txt
+*jju*
 
-Ancient
+in the
 
-Boring
+beginning
 
-Badass
+was a letter
 
-.txt
+then a word
 
-Killer feature:
+then text
 
-Type things
+which isn't
 
-Into a computer
+true
 
-Save them for later
+but is a
 
-So you have them
+comforting
 
-Store them:
+lie
 
-On your computer
-
-On a flash drive
-
-FANCY
-
-Dropbox
-
-Box.net
-
-iCloud Drive
-
-Google Drive
-
-Any platform
-Any device
-
-I WROTE THIS ON MY PHONE, YO
-
-Countless apps:
-
-PC
-
-Notepad
-
-Notepad++
-
-OS X
-
-TextEdit
-
-TextWrangler
-
-Cross-platform
-
-Atom
-
-Word
-
-iOS
-
-Byword, Drafts, Elements
-
-Android
-
-Draft, JotterPad, Writeily
-
-It doesn't matter.
-
-Because it's .txt.
-
-Don't like your app?
-
-Pack your things and move away.
-
-<em>FANCY</em>
-
-Markdown
-
-Render .txt into rich formats
-
-Like HTML
-
-Like charts
-
-Like Gabe is going to talk about next
-
-LIKE THESE SLIDES
-
-![](http://codyh.github.io/dottxt/img/pres.png)
-
-(boom.)
-
-All without locking you into a proprietary file format
-
-_strokes neckbeard_
-
-.txt
-
-Won't ever email you
-
-Won't deprecate your favorite feature
-
-Won't be acquired by creeps
-
-Won't try to pivot into a social network
-
-Won't ask you to update your operating system
-
-Won't hold your data hostage
-
-Will just save the things you type into your computer
-
-So you have them.
+for now
